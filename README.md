@@ -1,9 +1,9 @@
-<h1 align="center">Hi ![ Alt text](https://media.tenor.com/images/2c8bf89e4b3d616e8c32e703a610daeb/tenor.gif) / ! [](https://media.tenor.com/images/2c8bf89e4b3d616e8c32e703a610daeb/tenor.gif)🏻, I'm Senura</h1>
+<h1 align="center">Hi 👋🏻, I'm Senura</h1>
 <h3 align="center">A Passionate Front & Back End Developer from Sri Lanka</h3>
 
 - 💻 I’m Currently Working at Azend Technologies [http://azend.tech/](http://azend.tech/)
 
-- 🌱 I Love to Learn **Something New...**
+- 🌱 I’m Love to Learn **Something New...**
 
 - 📝 I Regularly Write Articles on Medium [https://senubattage.medium.com/](https://senubattage.medium.com/)
 
