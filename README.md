@@ -3,24 +3,20 @@
 
 - 💻 I’m Currently Working at Azend Technologies [http://azend.tech/](http://azend.tech/)
 
-- 🌱 I’m Love to Learn **Something New...**
+- 🌱 I Love to Learn **Something New...**
 
 - 📝 I Regularly Write Articles on Medium [https://senubattage.medium.com/](https://senubattage.medium.com/)
 
 - 💭 Ask Me About **New Tech Stack and Building Cool Stuffs**
 
-- ✉ How to Reach Me **senubattage@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📧 How to Reach Me **senubattage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/senurab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="senurab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senubattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senubattage" height="30" width="40" /></a>
 <a href="https://instagram.com/_battte_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_battte_" height="30" width="40" /></a>
-<a href="https://medium.com/@senubattage" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30' width='40'></a>
+<a href="https://medium.com/@senubattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@senubattage" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
