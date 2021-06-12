@@ -3,7 +3,7 @@
 
 - 💻 I’m Currently Working at Azend Technologies [http://azend.tech/](http://azend.tech/)
 
-- 🌱 I’m Love to Learn **Something New...**
+- 🌱 I Love to Learn **Something New...**
 
 - 📝 I Regularly Write Articles on Medium [https://senubattage.medium.com/](https://senubattage.medium.com/)
 
