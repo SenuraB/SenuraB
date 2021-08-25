@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Senura</h1>
+
 - 💻 Currently Work at Azend Technologies [http://azend.tech/](http://azend.tech/)
 
 - 💭 Ask Me About **New Tech Stack and Building Cool Stuffs**
