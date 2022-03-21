@@ -4,7 +4,7 @@
 
 - 💭 Ask Me About **New Tech Stack and Building Cool Stuffs**
 
-- 🌱 I Love to Learn **Something New...**
+- 📚 I Love to Learn **Something New...**
 
 - 📝 I Regularly Write Articles on Medium [https://senubattage.medium.com/](https://senubattage.medium.com/)
 
