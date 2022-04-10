@@ -1,7 +1,8 @@
 <h1 align="center">Hi 🙌🏻, I'm Senura Battage</h1>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 <h3 align="center">Full Stack Developer | Techie | Innovator | Humanitarian</h3>
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</div>  
 <p align="left"> <a href="https://twitter.com/battages" target="blank"><img src="https://img.shields.io/twitter/follow/battages?logo=twitter&style=for-the-badge" alt="battages" /></a> </p>
 
 - 💻 Currently employed at Azend Technologies [https://www.azend.tech/](https://www.azend.tech/)
