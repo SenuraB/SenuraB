@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Senura Battage</h1>
 <h3 align="center">Full Stack Developer | Techie | Innovator | Humanitarian</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senurab&label=Profile%20views&color=0e75b6&style=flat" alt="senurab" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senurab" alt="senurab" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/battages" target="blank"><img src="https://img.shields.io/twitter/follow/battages?logo=twitter&style=for-the-badge" alt="battages" /></a> </p>
+
+- 💻 Currently employed at Azend Technologies [https://www.azend.tech/](https://www.azend.tech/)
+
+- 🎓 I’m currently doing my BSc(Hons) Degree at University of Westminster **https://www.westminster.ac.uk/**
 
 - ✉ Reach me via Twitter [https://twitter.com/BattageS](https://twitter.com/BattageS)
 
@@ -30,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senurab&show_icons=true&locale=en&layout=compact" alt="senurab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senurab&show_icons=true&locale=en" alt="senurab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senurab&" alt="senurab" /></p>
