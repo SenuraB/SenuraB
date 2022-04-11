@@ -7,7 +7,7 @@
 
 - 💻 Currently employed at Azend Technologies [https://www.azend.tech/](https://www.azend.tech/)
 
-- 🎓 I’m currently doing my BSc(Hons) degree at University of Westminster
+- 🎓 I’m currently doing my BSc (Hons) degree at University of Westminster
 
 - ✉ Reach me via LinkedIn **https://www.linkedin.com/in/senurabattage/**
 
