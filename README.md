@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
-<p align="left"> <a href="https://twitter.com/IamSenura" target="blank"><img src="https://img.shields.io/twitter/follow/battages?logo=twitter&style=for-the-badge" alt="battages" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IamSenura" target="blank"><img src="https://img.shields.io/twitter/follow/IamSenura?logo=twitter&style=for-the-badge" alt="IamSenura" /></a> </p>
 
 - 💻 Currently employed at Azend Technologies [https://www.azend.tech/](https://www.azend.tech/)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IamSenura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="battages" height="30" width="40" /></a>
+<a href="https://twitter.com/IamSenura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamSenura" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senurabattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senurabattage" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:15134764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15134764" height="30" width="40" /></a>
 <a href="https://instagram.com/_battte_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_battte_" height="30" width="40" /></a>
