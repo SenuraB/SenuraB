@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
-<p align="left"> <a href="https://twitter.com/battages" target="blank"><img src="https://img.shields.io/twitter/follow/battages?logo=twitter&style=for-the-badge" alt="battages" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IamSenura" target="blank"><img src="https://img.shields.io/twitter/follow/battages?logo=twitter&style=for-the-badge" alt="battages" /></a> </p>
 
 - 💻 Currently employed at Azend Technologies [https://www.azend.tech/](https://www.azend.tech/)
 
