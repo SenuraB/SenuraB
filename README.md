@@ -1,20 +1,19 @@
 <h1 align="center">Hi 🙌🏻, I'm Senura Battage</h1>
-<h3 align="center">Full Stack Developer | Techie | Innovator | Humanitarian</h3>
+<h3 align="center">Tech-Savvy Project Manager | Techie | Agilist</h3>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
 <p align="left"> <a href="https://twitter.com/IamSenura" target="blank"><img src="https://img.shields.io/twitter/follow/IamSenura?logo=twitter&style=for-the-badge" alt="IamSenura" /></a> </p>
 
-- 🎓 I’m currently doing my BSc (Hons) degree at University of Westminster
+- 🎓 Graduated with the BSc (Hons) degree at the University of Westminster
 
 - ✉ Reach me via LinkedIn **https://www.linkedin.com/in/senurabattage/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IamSenura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamSenura" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senurabattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senurabattage" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:15134764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15134764" height="30" width="40" /></a>
-<a href="https://instagram.com/_battte_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_battte_" height="30" width="40" /></a>
+<a href="https://instagram.com/battte__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_battte_" height="30" width="40" /></a>
 <a href="https://medium.com/@senubattage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@senubattage" height="30" width="40" /></a>
 </p>
 
