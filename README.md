@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🙌🏻, I'm Senura Battage</h1>
-<h3 align="center">Tech-Savvy Project Manager | Techie | Agilist</h3>
+<h1 align="center">Hi 😎  I'm Senura Battage</h1>
+<h3 align="center">Tech-Savvy Project Manager | Agilist</h3>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
